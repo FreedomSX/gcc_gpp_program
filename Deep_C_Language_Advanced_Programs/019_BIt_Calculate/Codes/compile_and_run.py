@@ -27,4 +27,9 @@ for file in file_lst:
 link_cmd_str = "g++ " + link_cmd_str + " -o " + file_lst[main_file_num].split(".")[0]
 print(link_cmd_str)
 os.system(link_cmd_str)
+print("Complied!")
+print("##############################")
 
+os.system(file_lst[main_file_num].split(".")[0])
+
+print("##############################")
