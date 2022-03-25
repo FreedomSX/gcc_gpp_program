@@ -12,3 +12,5 @@ for folder in folder_lst:
         os.system(cmdStr)
         cmdStr = "del .\\" + folder + "\\Codes\\.*"
         os.system(cmdStr)
+        # cmdStr = "del .\\" + folder + "\\*.py"
+        # os.system(cmdStr)
