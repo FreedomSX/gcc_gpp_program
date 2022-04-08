@@ -16,6 +16,9 @@ for folder in folder_lst:
     cmdStr = "copy .\\del_py_tools.py .\\" + folder + "\\del_py_tools.py /y"
     print(cmdStr)
     os.system(cmdStr)
+    cmdStr = "copy .\\new_a_project.py .\\" + folder + "\\new_a_project.py /y"
+    print(cmdStr)
+    os.system(cmdStr)
     # cmdStr = "rd .\\" + folder + "\\Codes /s /q"
     # print(cmdStr)
     # os.system(cmdStr)
