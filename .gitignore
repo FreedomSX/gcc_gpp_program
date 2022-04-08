@@ -31,6 +31,9 @@
 *.out
 *.app
 
+# python_tools
+*.py
+
 # excluded
 !copy_to_every_folder.py
 !copy_to_every_programs.py
