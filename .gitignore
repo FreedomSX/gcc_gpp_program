@@ -39,4 +39,4 @@
 !copy_to_every_programs.py
 !del_py_tools.py
 !Environment/**
-!**\new_a_project.py
+!./new_a_project.py
