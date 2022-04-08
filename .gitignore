@@ -34,8 +34,8 @@
 # python_tools
 *.py
 
-# excluded
-!copy_to_every_folder.py
-!copy_to_every_programs.py
-!del_py_tools.py
-!Environment/**
+# # excluded
+# !copy_to_every_folder.py
+# !copy_to_every_programs.py
+# !del_py_tools.py
+# !Environment/**
