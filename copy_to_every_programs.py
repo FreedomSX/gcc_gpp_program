@@ -25,3 +25,5 @@ for folder in folder_lst:
     # cmdStr = "rd .\\" + folder + "\\Environment /s /q"
     # print(cmdStr)
     # os.system(cmdStr)
+
+    #test
