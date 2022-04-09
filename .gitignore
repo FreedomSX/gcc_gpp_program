@@ -38,5 +38,5 @@
 !copy_to_every_folder.py
 !copy_to_every_programs.py
 !del_py_tools.py
-!Environment/**
+!/Environment/
 !/new_a_project.py
